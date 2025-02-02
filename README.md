@@ -23,6 +23,6 @@ The Trained model: <a href='https://drive.google.com/drive/folders/1tNfYV0LtzbzI
 **API INPUT**
 #
 i. Images can be sent.<br>
-**API Input Key:** image
+**API Input Key:** file
 #
 
